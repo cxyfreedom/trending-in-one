@@ -131,7 +131,7 @@ export function createSearchList(words: SearchWord[]): string {
 <!-- 最后更新时间 ${Date()} -->
 ${
     words.map((x) =>
-      `1. [${x.display_query}](https://www.zhihu.com/search?q=${x.query})`
+      `1. [${x.display_query}](${x.url})`
     ).join("\n")
   }
 <!-- END ZHIHUSEARCH -->`;
