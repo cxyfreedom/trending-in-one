@@ -31,7 +31,10 @@ if (await exists(fullPath)) {
   wordsAlreadyDownload = JSON.parse(content);
 }
 
-const wordsAll = mergeWords(words, wordsAlreadyDownload);
+const wordsAll = null
+if (words !== null) {
+  const wordsAll = mergeWords(words, wordsAlreadyDownload);
+}
 
 export const zhihuSearchData = wordsAll.map((x) => {
   x.url = `https://www.zhihu.com/search?q=${x.query.replace(/(^\s+)|(\s+$)|\s+/g,'%20')}`;
@@ -39,7 +42,7 @@ export const zhihuSearchData = wordsAll.map((x) => {
 });
 
 export async function zhihuSearch() {
-  if (words == null) {
+  if (wordsAll == null) {
     return;
   }
   // 保存原始数据
