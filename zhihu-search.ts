@@ -25,9 +25,6 @@ const yyyyMMdd = format(new Date(), "yyyy-MM-dd");
 const fullPath = join("raw/zhihu-search", `${yyyyMMdd}.json`);
 
 let wordsAlreadyDownload: SearchWord[] = [];
-if (words == null) {
-  return;
-}
 
 if (await exists(fullPath)) {
   const content = await Deno.readTextFile(fullPath);
@@ -42,6 +39,9 @@ export const zhihuSearchData = wordsAll.map((x) => {
 });
 
 export async function zhihuSearch() {
+  if (words == null) {
+    return;
+  }
   // 保存原始数据
   await Deno.writeTextFile(fullPath, JSON.stringify(wordsAll));
 
