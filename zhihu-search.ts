@@ -32,14 +32,14 @@ if (await exists(fullPath)) {
 }
 
 const wordsAll = null
+export const zhihuSearchData = null
 if (words !== null) {
-  const wordsAll = mergeWords(words, wordsAlreadyDownload);
+  wordsAll = mergeWords(words, wordsAlreadyDownload);
+  zhihuSearchData = wordsAll.map((x) => {
+    x.url = `https://www.zhihu.com/search?q=${x.query.replace(/(^\s+)|(\s+$)|\s+/g,'%20')}`;
+    return x;
+  });
 }
-
-export const zhihuSearchData = wordsAll.map((x) => {
-  x.url = `https://www.zhihu.com/search?q=${x.query.replace(/(^\s+)|(\s+$)|\s+/g,'%20')}`;
-  return x;
-});
 
 export async function zhihuSearch() {
   if (wordsAll == null) {
