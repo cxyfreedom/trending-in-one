@@ -25,6 +25,10 @@ const yyyyMMdd = format(new Date(), "yyyy-MM-dd");
 const fullPath = join("raw/zhihu-search", `${yyyyMMdd}.json`);
 
 let wordsAlreadyDownload: SearchWord[] = [];
+if (words == null) {
+  return;
+}
+
 if (await exists(fullPath)) {
   const content = await Deno.readTextFile(fullPath);
   wordsAlreadyDownload = JSON.parse(content);
