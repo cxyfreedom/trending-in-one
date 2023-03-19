@@ -19,7 +19,7 @@ if (!response.ok) {
 }
 
 const result: TopSearch = await response.json();
-words = result.top_search.words;
+let words = result.top_search.words;
 
 const yyyyMMdd = format(new Date(), "yyyy-MM-dd");
 const fullPath = join("raw/zhihu-search", `${yyyyMMdd}.json`);
