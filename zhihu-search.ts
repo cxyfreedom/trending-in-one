@@ -19,7 +19,7 @@ if (!response.ok) {
 }
 
 const result: TopSearch = await response.json();
-const words = result.top_search.words;
+words = result.top_search.words;
 
 const yyyyMMdd = format(new Date(), "yyyy-MM-dd");
 const fullPath = join("raw/zhihu-search", `${yyyyMMdd}.json`);
@@ -31,8 +31,8 @@ if (await exists(fullPath)) {
   wordsAlreadyDownload = JSON.parse(content);
 }
 
-const wordsAll = null
-export const zhihuSearchData = null
+let wordsAll = null;
+export let zhihuSearchData = null;
 if (words !== null) {
   wordsAll = mergeWords(words, wordsAlreadyDownload);
   zhihuSearchData = wordsAll.map((x) => {
