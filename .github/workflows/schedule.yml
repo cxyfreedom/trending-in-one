@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Install deno
-        uses: denoland/setup-deno@master
+        uses: denoland/setup-deno@main
 
       - name: Run deno
         run: |
