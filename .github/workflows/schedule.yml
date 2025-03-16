@@ -14,10 +14,10 @@ jobs:
 
     steps:
       - name: Clone repository
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
 
       - name: Install deno
-        uses: denolib/setup-deno@master
+        uses: denolib/setup-deno@v1
 
       - name: Run deno
         run: |
