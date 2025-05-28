@@ -1,8 +1,8 @@
 #!/usr/bin/env -S deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json
 // Copyright 2020 justjavac(迷渡). All rights reserved. MIT license.
-import { format } from "std/datetime/mod.ts";
-import { join } from "std/path/mod.ts";
-import { exists } from "std/fs/mod.ts";
+import { format } from "std/datetime/main.ts";
+import { join } from "std/path/main.ts";
+import { exists } from "std/fs/main.ts";
 
 import type { SearchWord, TopSearch } from "./types.ts";
 import {
@@ -11,7 +11,7 @@ import {
   mergeWords,
 } from "./utils.ts";
 
-const response = await fetch("https://www.zhihu.com/api/v4/search/top_search");
+const response = await fetch("https://www.zhihu.com/api/v4/search/recommend_query/v2");
 
 if (!response.ok) {
   console.error(response.statusText);
@@ -19,7 +19,8 @@ if (!response.ok) {
 }
 
 const result: TopSearch = await response.json();
-let words = result.top_search.words;
+
+const query = result.recommend_queries.queries;
 
 const yyyyMMdd = format(new Date(), "yyyy-MM-dd");
 const fullPath = join("raw/zhihu-search", `${yyyyMMdd}.json`);
@@ -31,15 +32,7 @@ if (await exists(fullPath)) {
   wordsAlreadyDownload = JSON.parse(content);
 }
 
-let wordsAll = null;
-export let zhihuSearchData = null;
-if (words !== null) {
-  wordsAll = mergeWords(words, wordsAlreadyDownload);
-  zhihuSearchData = wordsAll.map((x) => {
-    x.url = `https://www.zhihu.com/search?q=${x.query.replace(/(^\s+)|(\s+$)|\s+/g,'%20')}`;
-    return x;
-  });
-}
+const wordsAll = mergeWords(query, wordsAlreadyDownload);
 
 export async function zhihuSearch() {
   if (wordsAll == null) {
