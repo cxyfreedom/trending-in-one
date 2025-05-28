@@ -1,5 +1,5 @@
 #!/usr/bin/env -S deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json
-import { assertEquals, assertStringIncludes } from "std/testing/asserts.ts";
+import { assertEquals, assertStringIncludes } from "@std/asserts";
 import type { Question, SearchWord, ToutiaoWord, Word } from "./types.ts";
 
 import {
@@ -276,12 +276,12 @@ Deno.test("createReadme4Weibo", async function (): Promise<void> {
 
 Deno.test("mergeWords", function (): void {
   const words1: SearchWord[] = [];
-  const words2: SearchWord[] = [{ query: "foo", display_query: "bar" }];
-  const words3: SearchWord[] = [{ query: "foo", display_query: "hello" }];
-  const words4: SearchWord[] = [{ query: "hello", display_query: "world" }];
+  const words2: SearchWord[] = [{ real_query: "foo", query_display: "bar" }];
+  const words3: SearchWord[] = [{ real_query: "foo", query_display: "hello" }];
+  const words4: SearchWord[] = [{ real_query: "hello", query_display: "world" }];
   const words5: SearchWord[] = [
-    { query: "foo", display_query: "bar" },
-    { query: "hello", display_query: "world" },
+    { real_query: "foo", query_display: "bar" },
+    { real_query: "hello", query_display: "world" },
   ];
 
   assertEquals(mergeWords(words1, words2), words2);
@@ -290,41 +290,39 @@ Deno.test("mergeWords", function (): void {
   assertEquals(
     mergeWords(words2, words3),
     [
-      { query: "foo", display_query: "bar" },
-      { query: "foo", display_query: "hello" },
+      { real_query: "foo", query_display: "hello" },
     ],
   );
   assertEquals(mergeWords(words4, words5), [
-    { query: "hello", display_query: "world" },
-    { query: "foo", display_query: "bar" },
+    { real_query: "hello", query_display: "world" },
+    { real_query: "foo", query_display: "bar" },
   ]);
   assertEquals(
     mergeWords(words3, words5),
     [
-      { query: "foo", display_query: "hello" },
-      { query: "foo", display_query: "bar" },
-      { query: "hello", display_query: "world" },
+      { real_query: "foo", query_display: "bar" },
+      { real_query: "hello", query_display: "world" },
     ],
   );
 });
 
 Deno.test("createSearchList", function (): void {
   const words: SearchWord[] = [
-    { query: "foo", display_query: "bar" },
-    { query: "hello", display_query: "world" },
+    { real_query: "foo", query_display: "bar" },
+    { real_query: "hello", query_display: "world" },
   ];
 
   assertStringIncludes(createSearchList(words), "<!-- BEGIN ZHIHUSEARCH -->");
   assertStringIncludes(createSearchList(words), "<!-- END ZHIHUSEARCH -->");
   assertStringIncludes(createSearchList(words), "foo");
   assertStringIncludes(createSearchList(words), "world");
-  assertStringIncludes(createSearchList(words), "hello");
+  assertStringIncludes(createSearchList(words), "https://www.zhihu.com/search");
 });
 
 Deno.test("createArchive4Search", function (): void {
   const words: SearchWord[] = [
-    { query: "foo", display_query: "bar" },
-    { query: "hello", display_query: "world" },
+    { real_query: "foo", query_display: "bar" },
+    { real_query: "hello", query_display: "world" },
   ];
 
   assertStringIncludes(
@@ -336,8 +334,8 @@ Deno.test("createArchive4Search", function (): void {
 
 Deno.test("createReadme4Search", async function (): Promise<void> {
   const words: SearchWord[] = [
-    { query: "foo", display_query: "bar" },
-    { query: "hello", display_query: "world" },
+    { real_query: "foo", query_display: "bar" },
+    { real_query: "hello", query_display: "world" },
   ];
 
   assertStringIncludes(await createReadme4Search(words), "热搜");
