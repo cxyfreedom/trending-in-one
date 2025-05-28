@@ -5,18 +5,13 @@ import { join } from "@std/path";
 import { exists } from "@std/fs";
 
 import type { Word } from "./types.ts";
-import {
-  createArchive4Weibo,
-  createReadme4Weibo,
-  mergeWords4Weibo,
-} from "./utils.ts";
+import { createArchive4Weibo, createReadme4Weibo, mergeWords4Weibo } from "./utils.ts";
 
 const regexp = /<a href="(\/weibo\?q=[^"]+)".*?>(.+)<\/a>/g;
 
 const response = await fetch("https://s.weibo.com/top/summary", {
   headers: {
-    "Cookie":
-      "SUB=_2AkMVdRtlf8NxqwJRmfoWy2_lb4V0yQvEieKjKeq-JRMxHRl-yT8XqmYatRB6PvU1ijEk4CykabQQvFhJAy31x99v4Ejs;",
+    "Cookie": "SUB=_2AkMVdRtlf8NxqwJRmfoWy2_lb4V0yQvEieKjKeq-JRMxHRl-yT8XqmYatRB6PvU1ijEk4CykabQQvFhJAy31x99v4Ejs;",
   },
 });
 
