@@ -1,5 +1,5 @@
 #!/usr/bin/env -S deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json
-import { assertEquals, assertStringIncludes } from "@std/asserts";
+import { assertEquals, assertStringIncludes } from "@std/assert";
 import type { Question, SearchWord, ToutiaoWord, Word } from "./types.ts";
 
 import {
