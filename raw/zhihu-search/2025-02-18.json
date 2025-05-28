@@ -1,1 +1,90 @@
-[{"query":"黄金价格大跳水","display_query":"黄金价格大跳水","url":"https://www.zhihu.com/search?q=黄金价格大跳水"},{"query":"小说推文","display_query":"小说推文","url":"https://www.zhihu.com/search?q=小说推文"},{"query":"雨水","display_query":"雨水","url":"https://www.zhihu.com/search?q=雨水"},{"query":"沪深两市成交额突破5000亿","display_query":"沪深两市成交额突破5000亿","url":"https://www.zhihu.com/search?q=沪深两市成交额突破5000亿"},{"query":"你最意外的一笔收入是什么","display_query":"你最意外的一笔收入是什么","url":"https://www.zhihu.com/search?q=你最意外的一笔收入是什么"},{"query":"你最高光的时刻是什么时候","display_query":"你最高光的时刻是什么时候","url":"https://www.zhihu.com/search?q=你最高光的时刻是什么时候"},{"query":"为什么说猫是液体的","display_query":"为什么说猫是液体的","url":"https://www.zhihu.com/search?q=为什么说猫是液体的"},{"query":"普通人赚钱路子","display_query":"普通人赚钱路子","url":"https://www.zhihu.com/search?q=普通人赚钱路子"},{"query":"短剧推广躺赚","display_query":"短剧推广躺赚","url":"https://www.zhihu.com/search?q=短剧推广躺赚"},{"query":"无货源开网店","display_query":"无货源开网店","url":"https://www.zhihu.com/search?q=无货源开网店"},{"query":"乌尔善称希望观众给「封神 3」机会","display_query":"乌尔善称希望观众给「封神 3」机会","url":"https://www.zhihu.com/search?q=乌尔善称希望观众给「封神%203」机会"},{"query":"利拉德绝杀帕克队","display_query":"利拉德绝杀帕克队","url":"https://www.zhihu.com/search?q=利拉德绝杀帕克队"},{"query":"线上兼职推荐","display_query":"线上兼职推荐","url":"https://www.zhihu.com/search?q=线上兼职推荐"},{"query":"知乎写小说赚钱","display_query":"知乎写小说赚钱","url":"https://www.zhihu.com/search?q=知乎写小说赚钱"},{"query":"写作能力提升","display_query":"写作能力提升","url":"https://www.zhihu.com/search?q=写作能力提升"},{"query":"腾讯文档接入deepseek-r1","display_query":"腾讯文档接入deepseek-r1","url":"https://www.zhihu.com/search?q=腾讯文档接入deepseek-r1"},{"query":"饺子称「哪吒 3」故事观世界观会更加庞大","display_query":"饺子称「哪吒 3」故事观世界观会更加庞大","url":"https://www.zhihu.com/search?q=饺子称「哪吒%203」故事观世界观会更加庞大"},{"query":"章子怡发飙","display_query":"章子怡发飙","url":"https://www.zhihu.com/search?q=章子怡发飙"},{"query":"nba全明星三分大赛","display_query":"nba全明星三分大赛","url":"https://www.zhihu.com/search?q=nba全明星三分大赛"},{"query":"gen对战hle","display_query":"gen对战hle","url":"https://www.zhihu.com/search?q=gen对战hle"},{"query":"nba全明星扣篮大赛","display_query":"nba全明星扣篮大赛","url":"https://www.zhihu.com/search?q=nba全明星扣篮大赛"},{"query":"詹姆斯退出全明星","display_query":"詹姆斯退出全明星","url":"https://www.zhihu.com/search?q=詹姆斯退出全明星"},{"query":"马里一非法金矿坍塌致48人死亡","display_query":"马里一非法金矿坍塌致48人死亡","url":"https://www.zhihu.com/search?q=马里一非法金矿坍塌致48人死亡"},{"query":"川航回应老人在飞机上昏迷离世","display_query":"川航回应老人在飞机上昏迷离世","url":"https://www.zhihu.com/search?q=川航回应老人在飞机上昏迷离世"}]
+[
+  {
+    "query": "黄金价格大跳水",
+    "display_query": "黄金价格大跳水",
+    "url": "https://www.zhihu.com/search?q=黄金价格大跳水"
+  },
+  { "query": "小说推文", "display_query": "小说推文", "url": "https://www.zhihu.com/search?q=小说推文" },
+  { "query": "雨水", "display_query": "雨水", "url": "https://www.zhihu.com/search?q=雨水" },
+  {
+    "query": "沪深两市成交额突破5000亿",
+    "display_query": "沪深两市成交额突破5000亿",
+    "url": "https://www.zhihu.com/search?q=沪深两市成交额突破5000亿"
+  },
+  {
+    "query": "你最意外的一笔收入是什么",
+    "display_query": "你最意外的一笔收入是什么",
+    "url": "https://www.zhihu.com/search?q=你最意外的一笔收入是什么"
+  },
+  {
+    "query": "你最高光的时刻是什么时候",
+    "display_query": "你最高光的时刻是什么时候",
+    "url": "https://www.zhihu.com/search?q=你最高光的时刻是什么时候"
+  },
+  {
+    "query": "为什么说猫是液体的",
+    "display_query": "为什么说猫是液体的",
+    "url": "https://www.zhihu.com/search?q=为什么说猫是液体的"
+  },
+  {
+    "query": "普通人赚钱路子",
+    "display_query": "普通人赚钱路子",
+    "url": "https://www.zhihu.com/search?q=普通人赚钱路子"
+  },
+  { "query": "短剧推广躺赚", "display_query": "短剧推广躺赚", "url": "https://www.zhihu.com/search?q=短剧推广躺赚" },
+  { "query": "无货源开网店", "display_query": "无货源开网店", "url": "https://www.zhihu.com/search?q=无货源开网店" },
+  {
+    "query": "乌尔善称希望观众给「封神 3」机会",
+    "display_query": "乌尔善称希望观众给「封神 3」机会",
+    "url": "https://www.zhihu.com/search?q=乌尔善称希望观众给「封神%203」机会"
+  },
+  {
+    "query": "利拉德绝杀帕克队",
+    "display_query": "利拉德绝杀帕克队",
+    "url": "https://www.zhihu.com/search?q=利拉德绝杀帕克队"
+  },
+  { "query": "线上兼职推荐", "display_query": "线上兼职推荐", "url": "https://www.zhihu.com/search?q=线上兼职推荐" },
+  {
+    "query": "知乎写小说赚钱",
+    "display_query": "知乎写小说赚钱",
+    "url": "https://www.zhihu.com/search?q=知乎写小说赚钱"
+  },
+  { "query": "写作能力提升", "display_query": "写作能力提升", "url": "https://www.zhihu.com/search?q=写作能力提升" },
+  {
+    "query": "腾讯文档接入deepseek-r1",
+    "display_query": "腾讯文档接入deepseek-r1",
+    "url": "https://www.zhihu.com/search?q=腾讯文档接入deepseek-r1"
+  },
+  {
+    "query": "饺子称「哪吒 3」故事观世界观会更加庞大",
+    "display_query": "饺子称「哪吒 3」故事观世界观会更加庞大",
+    "url": "https://www.zhihu.com/search?q=饺子称「哪吒%203」故事观世界观会更加庞大"
+  },
+  { "query": "章子怡发飙", "display_query": "章子怡发飙", "url": "https://www.zhihu.com/search?q=章子怡发飙" },
+  {
+    "query": "nba全明星三分大赛",
+    "display_query": "nba全明星三分大赛",
+    "url": "https://www.zhihu.com/search?q=nba全明星三分大赛"
+  },
+  { "query": "gen对战hle", "display_query": "gen对战hle", "url": "https://www.zhihu.com/search?q=gen对战hle" },
+  {
+    "query": "nba全明星扣篮大赛",
+    "display_query": "nba全明星扣篮大赛",
+    "url": "https://www.zhihu.com/search?q=nba全明星扣篮大赛"
+  },
+  {
+    "query": "詹姆斯退出全明星",
+    "display_query": "詹姆斯退出全明星",
+    "url": "https://www.zhihu.com/search?q=詹姆斯退出全明星"
+  },
+  {
+    "query": "马里一非法金矿坍塌致48人死亡",
+    "display_query": "马里一非法金矿坍塌致48人死亡",
+    "url": "https://www.zhihu.com/search?q=马里一非法金矿坍塌致48人死亡"
+  },
+  {
+    "query": "川航回应老人在飞机上昏迷离世",
+    "display_query": "川航回应老人在飞机上昏迷离世",
+    "url": "https://www.zhihu.com/search?q=川航回应老人在飞机上昏迷离世"
+  }
+]

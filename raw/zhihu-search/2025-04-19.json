@@ -1,1 +1,88 @@
-[{"query":"OpenAI与软银投资星门AI项目","display_query":"OpenAI与软银投资星门AI项目","url":"https://www.zhihu.com/search?q=OpenAI与软银投资星门AI项目"},{"query":"中国市场对英伟达有多重要","display_query":"中国市场对英伟达有多重要","url":"https://www.zhihu.com/search?q=中国市场对英伟达有多重要"},{"query":"孙颖莎vs陈幸同","display_query":"孙颖莎vs陈幸同","url":"https://www.zhihu.com/search?q=孙颖莎vs陈幸同"},{"query":"王楚钦晋级八强","display_query":"王楚钦晋级八强","url":"https://www.zhihu.com/search?q=王楚钦晋级八强"},{"query":"被惊艳到是一种什么体验","display_query":"被惊艳到是一种什么体验","url":"https://www.zhihu.com/search?q=被惊艳到是一种什么体验"},{"query":"大陆ai登顶台湾下载榜","display_query":"大陆ai登顶台湾下载榜","url":"https://www.zhihu.com/search?q=大陆ai登顶台湾下载榜"},{"query":"美国公布肯尼迪遇刺案记录","display_query":"美国公布肯尼迪遇刺案记录","url":"https://www.zhihu.com/search?q=美国公布肯尼迪遇刺案记录"},{"query":"独立游戏《沙拉的黑店》疑被上市公司抄袭","display_query":"独立游戏《沙拉的黑店》疑被上市公司抄袭","url":"https://www.zhihu.com/search?q=独立游戏《沙拉的黑店》疑被上市公司抄袭"},{"query":"王者荣耀联动哪吒","display_query":"王者荣耀联动哪吒","url":"https://www.zhihu.com/search?q=王者荣耀联动哪吒"},{"query":"网传《歌手 2025》首发阵容","display_query":"网传《歌手 2025》首发阵容","url":"https://www.zhihu.com/search?q=网传《歌手%202025》首发阵容"},{"query":"多家银行下调存款利率","display_query":"多家银行下调存款利率","url":"https://www.zhihu.com/search?q=多家银行下调存款利率"},{"query":"王楚钦vs雨果","display_query":"王楚钦vs雨果","url":"https://www.zhihu.com/search?q=王楚钦vs雨果"},{"query":"网友「蟹不肉」在妻子病亡后殉情离世","display_query":"网友「蟹不肉」在妻子病亡后殉情离世","url":"https://www.zhihu.com/search?q=网友「蟹不肉」在妻子病亡后殉情离世"},{"query":"美国对部分商品免征对等关税","display_query":"美国对部分商品免征对等关税","url":"https://www.zhihu.com/search?q=美国对部分商品免征对等关税"},{"query":"美国免除智能手机电脑对等关税","display_query":"美国免除智能手机电脑对等关税","url":"https://www.zhihu.com/search?q=美国免除智能手机电脑对等关税"},{"query":"敦促美方彻底取消对等关税错误做法 ","display_query":"敦促美方彻底取消对等关税错误做法 ","url":"https://www.zhihu.com/search?q=敦促美方彻底取消对等关税错误做法%20"},{"query":"16岁奥数天才坠楼去世","display_query":"16岁奥数天才坠楼去世","url":"https://www.zhihu.com/search?q=16岁奥数天才坠楼去世"},{"query":"前索尼高管称任天堂正失去特色","display_query":"前索尼高管称任天堂正失去特色","url":"https://www.zhihu.com/search?q=前索尼高管称任天堂正失去特色"}]
+[
+  {
+    "query": "OpenAI与软银投资星门AI项目",
+    "display_query": "OpenAI与软银投资星门AI项目",
+    "url": "https://www.zhihu.com/search?q=OpenAI与软银投资星门AI项目"
+  },
+  {
+    "query": "中国市场对英伟达有多重要",
+    "display_query": "中国市场对英伟达有多重要",
+    "url": "https://www.zhihu.com/search?q=中国市场对英伟达有多重要"
+  },
+  {
+    "query": "孙颖莎vs陈幸同",
+    "display_query": "孙颖莎vs陈幸同",
+    "url": "https://www.zhihu.com/search?q=孙颖莎vs陈幸同"
+  },
+  {
+    "query": "王楚钦晋级八强",
+    "display_query": "王楚钦晋级八强",
+    "url": "https://www.zhihu.com/search?q=王楚钦晋级八强"
+  },
+  {
+    "query": "被惊艳到是一种什么体验",
+    "display_query": "被惊艳到是一种什么体验",
+    "url": "https://www.zhihu.com/search?q=被惊艳到是一种什么体验"
+  },
+  {
+    "query": "大陆ai登顶台湾下载榜",
+    "display_query": "大陆ai登顶台湾下载榜",
+    "url": "https://www.zhihu.com/search?q=大陆ai登顶台湾下载榜"
+  },
+  {
+    "query": "美国公布肯尼迪遇刺案记录",
+    "display_query": "美国公布肯尼迪遇刺案记录",
+    "url": "https://www.zhihu.com/search?q=美国公布肯尼迪遇刺案记录"
+  },
+  {
+    "query": "独立游戏《沙拉的黑店》疑被上市公司抄袭",
+    "display_query": "独立游戏《沙拉的黑店》疑被上市公司抄袭",
+    "url": "https://www.zhihu.com/search?q=独立游戏《沙拉的黑店》疑被上市公司抄袭"
+  },
+  {
+    "query": "王者荣耀联动哪吒",
+    "display_query": "王者荣耀联动哪吒",
+    "url": "https://www.zhihu.com/search?q=王者荣耀联动哪吒"
+  },
+  {
+    "query": "网传《歌手 2025》首发阵容",
+    "display_query": "网传《歌手 2025》首发阵容",
+    "url": "https://www.zhihu.com/search?q=网传《歌手%202025》首发阵容"
+  },
+  {
+    "query": "多家银行下调存款利率",
+    "display_query": "多家银行下调存款利率",
+    "url": "https://www.zhihu.com/search?q=多家银行下调存款利率"
+  },
+  { "query": "王楚钦vs雨果", "display_query": "王楚钦vs雨果", "url": "https://www.zhihu.com/search?q=王楚钦vs雨果" },
+  {
+    "query": "网友「蟹不肉」在妻子病亡后殉情离世",
+    "display_query": "网友「蟹不肉」在妻子病亡后殉情离世",
+    "url": "https://www.zhihu.com/search?q=网友「蟹不肉」在妻子病亡后殉情离世"
+  },
+  {
+    "query": "美国对部分商品免征对等关税",
+    "display_query": "美国对部分商品免征对等关税",
+    "url": "https://www.zhihu.com/search?q=美国对部分商品免征对等关税"
+  },
+  {
+    "query": "美国免除智能手机电脑对等关税",
+    "display_query": "美国免除智能手机电脑对等关税",
+    "url": "https://www.zhihu.com/search?q=美国免除智能手机电脑对等关税"
+  },
+  {
+    "query": "敦促美方彻底取消对等关税错误做法 ",
+    "display_query": "敦促美方彻底取消对等关税错误做法 ",
+    "url": "https://www.zhihu.com/search?q=敦促美方彻底取消对等关税错误做法%20"
+  },
+  {
+    "query": "16岁奥数天才坠楼去世",
+    "display_query": "16岁奥数天才坠楼去世",
+    "url": "https://www.zhihu.com/search?q=16岁奥数天才坠楼去世"
+  },
+  {
+    "query": "前索尼高管称任天堂正失去特色",
+    "display_query": "前索尼高管称任天堂正失去特色",
+    "url": "https://www.zhihu.com/search?q=前索尼高管称任天堂正失去特色"
+  }
+]

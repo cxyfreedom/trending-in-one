@@ -5,11 +5,7 @@ import { join } from "@std/path";
 import { exists } from "@std/fs";
 
 import type { SearchWord, TopSearch } from "./types.ts";
-import {
-  createArchive4Search,
-  createReadme4Search,
-  mergeWords,
-} from "./utils.ts";
+import { createArchive4Search, createReadme4Search, mergeWords } from "./utils.ts";
 
 const response = await fetch("https://www.zhihu.com/api/v4/search/recommend_query/v2");
 

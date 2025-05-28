@@ -1,1 +1,79 @@
-[{"query":"北方小年","display_query":"北方小年","url":"https://www.zhihu.com/search?q=北方小年"},{"query":"为什么马的腿断了必须死","display_query":"为什么马的腿断了必须死","url":"https://www.zhihu.com/search?q=为什么马的腿断了必须死"},{"query":"知乎如何赚钱","display_query":"知乎如何赚钱","url":"https://www.zhihu.com/search?q=知乎如何赚钱"},{"query":"抖音直播话术要点","display_query":"抖音直播话术要点","url":"https://www.zhihu.com/search?q=抖音直播话术要点"},{"query":"普通人自媒体赚钱方式","display_query":"普通人自媒体赚钱方式","url":"https://www.zhihu.com/search?q=普通人自媒体赚钱方式"},{"query":"小红书养号与变现技巧","display_query":"小红书养号与变现技巧","url":"https://www.zhihu.com/search?q=小红书养号与变现技巧"},{"query":"抖音快速涨 1000 粉","display_query":"抖音快速涨 1000 粉","url":"https://www.zhihu.com/search?q=抖音快速涨%201000%20粉"},{"query":"短剧推广授权获取","display_query":"短剧推广授权获取","url":"https://www.zhihu.com/search?q=短剧推广授权获取"},{"query":"短视频搬运变现方式","display_query":"短视频搬运变现方式","url":"https://www.zhihu.com/search?q=短视频搬运变现方式"},{"query":"知乎写东西能否赚钱","display_query":"知乎写东西能否赚钱","url":"https://www.zhihu.com/search?q=知乎写东西能否赚钱"},{"query":"为何机场需要 checkin 才能登机","display_query":"为何机场需要 checkin 才能登机","url":"https://www.zhihu.com/search?q=为何机场需要%20checkin%20才能登机"},{"query":"Kimi 多模态推理模型 k1.5","display_query":"Kimi 多模态推理模型 k1.5","url":"https://www.zhihu.com/search?q=Kimi%20多模态推理模型%20k1.5"},{"query":"为什么说以身殉国就罪减一等","display_query":"为什么说以身殉国就罪减一等","url":"https://www.zhihu.com/search?q=为什么说以身殉国就罪减一等"},{"query":"男子醉酒身亡家属起诉同桌索赔被驳回","display_query":"男子醉酒身亡家属起诉同桌索赔被驳回","url":"https://www.zhihu.com/search?q=男子醉酒身亡家属起诉同桌索赔被驳回"},{"query":"春节答题 PK 分奖金","display_query":"春节答题 PK 分奖金","url":"https://www.zhihu.com/search?q=春节答题%20PK%20分奖金"},{"query":"有趣的过年方式","display_query":"有趣的过年方式","url":"https://www.zhihu.com/search?q=有趣的过年方式"},{"query":"宝妈在家赚钱渠道","display_query":"宝妈在家赚钱渠道","url":"https://www.zhihu.com/search?q=宝妈在家赚钱渠道"}]
+[
+  { "query": "北方小年", "display_query": "北方小年", "url": "https://www.zhihu.com/search?q=北方小年" },
+  {
+    "query": "为什么马的腿断了必须死",
+    "display_query": "为什么马的腿断了必须死",
+    "url": "https://www.zhihu.com/search?q=为什么马的腿断了必须死"
+  },
+  { "query": "知乎如何赚钱", "display_query": "知乎如何赚钱", "url": "https://www.zhihu.com/search?q=知乎如何赚钱" },
+  {
+    "query": "抖音直播话术要点",
+    "display_query": "抖音直播话术要点",
+    "url": "https://www.zhihu.com/search?q=抖音直播话术要点"
+  },
+  {
+    "query": "普通人自媒体赚钱方式",
+    "display_query": "普通人自媒体赚钱方式",
+    "url": "https://www.zhihu.com/search?q=普通人自媒体赚钱方式"
+  },
+  {
+    "query": "小红书养号与变现技巧",
+    "display_query": "小红书养号与变现技巧",
+    "url": "https://www.zhihu.com/search?q=小红书养号与变现技巧"
+  },
+  {
+    "query": "抖音快速涨 1000 粉",
+    "display_query": "抖音快速涨 1000 粉",
+    "url": "https://www.zhihu.com/search?q=抖音快速涨%201000%20粉"
+  },
+  {
+    "query": "短剧推广授权获取",
+    "display_query": "短剧推广授权获取",
+    "url": "https://www.zhihu.com/search?q=短剧推广授权获取"
+  },
+  {
+    "query": "短视频搬运变现方式",
+    "display_query": "短视频搬运变现方式",
+    "url": "https://www.zhihu.com/search?q=短视频搬运变现方式"
+  },
+  {
+    "query": "知乎写东西能否赚钱",
+    "display_query": "知乎写东西能否赚钱",
+    "url": "https://www.zhihu.com/search?q=知乎写东西能否赚钱"
+  },
+  {
+    "query": "为何机场需要 checkin 才能登机",
+    "display_query": "为何机场需要 checkin 才能登机",
+    "url": "https://www.zhihu.com/search?q=为何机场需要%20checkin%20才能登机"
+  },
+  {
+    "query": "Kimi 多模态推理模型 k1.5",
+    "display_query": "Kimi 多模态推理模型 k1.5",
+    "url": "https://www.zhihu.com/search?q=Kimi%20多模态推理模型%20k1.5"
+  },
+  {
+    "query": "为什么说以身殉国就罪减一等",
+    "display_query": "为什么说以身殉国就罪减一等",
+    "url": "https://www.zhihu.com/search?q=为什么说以身殉国就罪减一等"
+  },
+  {
+    "query": "男子醉酒身亡家属起诉同桌索赔被驳回",
+    "display_query": "男子醉酒身亡家属起诉同桌索赔被驳回",
+    "url": "https://www.zhihu.com/search?q=男子醉酒身亡家属起诉同桌索赔被驳回"
+  },
+  {
+    "query": "春节答题 PK 分奖金",
+    "display_query": "春节答题 PK 分奖金",
+    "url": "https://www.zhihu.com/search?q=春节答题%20PK%20分奖金"
+  },
+  {
+    "query": "有趣的过年方式",
+    "display_query": "有趣的过年方式",
+    "url": "https://www.zhihu.com/search?q=有趣的过年方式"
+  },
+  {
+    "query": "宝妈在家赚钱渠道",
+    "display_query": "宝妈在家赚钱渠道",
+    "url": "https://www.zhihu.com/search?q=宝妈在家赚钱渠道"
+  }
+]

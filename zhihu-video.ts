@@ -5,11 +5,7 @@ import { join } from "@std/path";
 import { exists } from "@std/fs";
 
 import type { Question, ZhihuVideoList } from "./types.ts";
-import {
-  createArchive4Video,
-  createReadme4Video,
-  mergeQuestions,
-} from "./utils.ts";
+import { createArchive4Video, createReadme4Video, mergeQuestions } from "./utils.ts";
 
 const response = await fetch(
   "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/zvideo?limit=100",

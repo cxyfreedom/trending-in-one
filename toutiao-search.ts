@@ -5,11 +5,7 @@ import { join } from "@std/path";
 import { exists } from "@std/fs";
 
 import type { ToutiaoTopSearch, ToutiaoWord } from "./types.ts";
-import {
-  createArchive4Toutiao,
-  createReadme4Toutiao,
-  mergeWords4Toutiao,
-} from "./utils.ts";
+import { createArchive4Toutiao, createReadme4Toutiao, mergeWords4Toutiao } from "./utils.ts";
 
 const response = await fetch(
   "https://is-lq.snssdk.com/api/suggest_words/?business_id=10016",
@@ -33,7 +29,7 @@ if (await exists(fullPath)) {
 }
 
 const _words = words.map((x) => {
-  x.url = `https://so.toutiao.com/search?keyword=${x.word.replace(/(^\s+)|(\s+$)|\s+/g,'%20')}`;
+  x.url = `https://so.toutiao.com/search?keyword=${x.word.replace(/(^\s+)|(\s+$)|\s+/g, "%20")}`;
   return x;
 });
 
