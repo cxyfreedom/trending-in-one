@@ -1,8 +1,8 @@
 #!/usr/bin/env -S deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json
 // Copyright 2020 justjavac(迷渡). All rights reserved. MIT license.
-import { format } from "std/datetime/mod.ts";
-import { join } from "std/path/mod.ts";
-import { exists } from "std/fs/mod.ts";
+import { format } from "std/datetime";
+import { join } from "std/path";
+import { exists } from "std/fs";
 
 import type { Word } from "./types.ts";
 import {
