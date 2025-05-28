@@ -22,11 +22,11 @@ export function mergeWords(
 ): SearchWord[] {
   const obj: Record<string, string> = {};
   for (const w of words.concat(another)) {
-    obj[w.display_query] = w.query;
+    obj[w.real_query] = w.query_display;
   }
-  return Object.entries(obj).map(([display_query, query]) => ({
-    query,
-    display_query,
+  return Object.entries(obj).map(([real_query, query_display]) => ({
+    query_display,
+    real_query,
   }));
 }
 
@@ -130,9 +130,8 @@ export function createSearchList(words: SearchWord[]): string {
   return `<!-- BEGIN ZHIHUSEARCH -->
 <!-- 最后更新时间 ${Date()} -->
 ${
-    words.map((x) =>
-      `1. [${x.display_query}](${x.url})`
-    ).join("\n")
+    words.map((x) => `1. [${x.query_display}](https://www.zhihu.com/search?q=${encodeURIComponent(x.real_query)})`)
+      .join("\n")
   }
 <!-- END ZHIHUSEARCH -->`;
 }
