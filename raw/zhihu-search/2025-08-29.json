@@ -3,7 +3,10 @@
   { "query_display": "美团将取消骑手超时罚款", "real_query": "美团将取消骑手超时罚款" },
   { "query_display": "普京、金正恩将出席九三阅兵", "real_query": "普京、金正恩将出席九三阅兵" },
   { "query_display": "南京大学青年教师东思嘉离世", "real_query": "南京大学青年教师东思嘉离世" },
-  { "query_display": "如果你有 300 万存款还会上班吗", "real_query": "如果你有 300 万存款还会上班吗" },
+  {
+    "query_display": "主办方称票房回不了本曾轶可苏州演唱会取消",
+    "real_query": "主办方称票房回不了本曾轶可苏州演唱会取消"
+  },
   { "query_display": "三亚酒店浴缸不断冒出红线虫", "real_query": "三亚酒店浴缸不断冒出红线虫" },
   { "query_display": "安徽最大蝗虫现身合肥", "real_query": "安徽最大蝗虫现身合肥" },
   { "query_display": "东思嘉 南京大学", "real_query": "东思嘉 南京大学" },
@@ -14,6 +17,7 @@
   { "query_display": "韩国知名歌手鸟叔接受警方调查", "real_query": "韩国知名歌手鸟叔接受警方调查" },
   { "query_display": "造谣歌手韩磊出轨事件当事人道歉", "real_query": "造谣歌手韩磊出轨事件当事人道歉" },
   { "query_display": "为什么显卡最近降价了", "real_query": "为什么显卡最近降价了" },
+  { "query_display": "如果你有 300 万存款还会上班吗", "real_query": "如果你有 300 万存款还会上班吗" },
   { "query_display": "中国足协发布新规", "real_query": "中国足协发布新规" },
   { "query_display": "人的大脑会不会出现「过拟合」病", "real_query": "人的大脑会不会出现「过拟合」病" },
   { "query_display": "抗战胜利 80 周年第二场记者招待会", "real_query": "抗战胜利 80 周年第二场记者招待会" },
@@ -27,10 +31,6 @@
   { "query_display": "把茄子和辣椒混种结出「茄椒」是真的吗", "real_query": "把茄子和辣椒混种结出「茄椒」是真的吗" },
   { "query_display": "高速戴恐怖面具男子为外籍老师", "real_query": "高速戴恐怖面具男子为外籍老师" },
   { "query_display": "寒武纪能否超越茅台成为新股王", "real_query": "寒武纪能否超越茅台成为新股王" },
-  {
-    "query_display": "主办方称票房回不了本曾轶可苏州演唱会取消",
-    "real_query": "主办方称票房回不了本曾轶可苏州演唱会取消"
-  },
   { "query_display": "全市统一校服有必要吗", "real_query": "全市统一校服有必要吗" },
   { "query_display": "多省查出养老金被冒领", "real_query": "多省查出养老金被冒领" }
 ]
