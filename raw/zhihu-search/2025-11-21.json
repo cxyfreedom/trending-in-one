@@ -6,10 +6,12 @@
   { "query_display": "樊振东3-1王楚钦", "real_query": "樊振东3-1王楚钦" },
   { "query_display": "郭某严重学术不端高校已报案", "real_query": "郭某严重学术不端高校已报案" },
   { "query_display": "中日外交风波", "real_query": "中日外交风波" },
-  { "query_display": "俞敏洪在南极发全员信庆祝周年引发争议", "real_query": "俞敏洪在南极发全员信庆祝周年引发争议" },
+  { "query_display": "你见过哪些智障的反人类设计", "real_query": "你见过哪些智障的反人类设计" },
   { "query_display": "王楚钦樊振东一单对决", "real_query": "王楚钦樊振东一单对决" },
   { "query_display": "乒乓球男团北京夺冠", "real_query": "乒乓球男团北京夺冠" },
   { "query_display": "江苏科技大学通报郭某学术造假", "real_query": "江苏科技大学通报郭某学术造假" },
+  { "query_display": "你见过哪些神级翻译", "real_query": "你见过哪些神级翻译" },
+  { "query_display": "俞敏洪在南极发全员信庆祝周年引发争议", "real_query": "俞敏洪在南极发全员信庆祝周年引发争议" },
   {
     "query_display": "江科大首席科学家伪造履历费暴露了哪些问题",
     "real_query": "江科大首席科学家伪造履历费暴露了哪些问题"
@@ -32,7 +34,6 @@
     "query_display": "作为一名男性你最不理解其他男性的什么行为",
     "real_query": "作为一名男性你最不理解其他男性的什么行为"
   },
-  { "query_display": "你见过哪些神级翻译", "real_query": "你见过哪些神级翻译" },
   {
     "query_display": "既然读完大学也是去送外卖那何必去读大学呢",
     "real_query": "既然读完大学也是去送外卖那何必去读大学呢"
