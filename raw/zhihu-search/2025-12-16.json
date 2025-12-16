@@ -8,9 +8,13 @@
   { "query_display": "小米用户提车未开出园区便撞人", "real_query": "小米用户提车未开出园区便撞人" },
   { "query_display": "海南自贸港18日起正式启动全岛封关", "real_query": "海南自贸港18日起正式启动全岛封关" },
   { "query_display": "天价救护车涉事医院被罚没 8.7 万", "real_query": "天价救护车涉事医院被罚没 8.7 万" },
-  { "query_display": "在香菇上面改十字刀是仪式感吗", "real_query": "在香菇上面改十字刀是仪式感吗" },
+  {
+    "query_display": "你见过哪些当年很轰动但后来被打脸的神预言",
+    "real_query": "你见过哪些当年很轰动但后来被打脸的神预言"
+  },
   { "query_display": "成都女子家门口遇害案二次开庭", "real_query": "成都女子家门口遇害案二次开庭" },
   { "query_display": "泰柬冲突", "real_query": "泰柬冲突" },
+  { "query_display": "在香菇上面改十字刀是仪式感吗", "real_query": "在香菇上面改十字刀是仪式感吗" },
   { "query_display": "警方通报学生卖冰糖葫芦被掀摊", "real_query": "警方通报学生卖冰糖葫芦被掀摊" },
   { "query_display": "卫健委通报女婴小洛熙手术离世事件", "real_query": "卫健委通报女婴小洛熙手术离世事件" },
   { "query_display": "霉霉给员工发近2亿美元奖金", "real_query": "霉霉给员工发近2亿美元奖金" },
@@ -35,10 +39,6 @@
   { "query_display": "本科生一年内发 50 篇 sci", "real_query": "本科生一年内发 50 篇 sci" },
   { "query_display": "如何看待北方多地官宣「雪假」", "real_query": "如何看待北方多地官宣「雪假」" },
   { "query_display": "为什么不把垃圾倒在活火山里", "real_query": "为什么不把垃圾倒在活火山里" },
-  {
-    "query_display": "你见过哪些当年很轰动但后来被打脸的神预言",
-    "real_query": "你见过哪些当年很轰动但后来被打脸的神预言"
-  },
   { "query_display": "「小红卡」关停问题出在哪里", "real_query": "「小红卡」关停问题出在哪里" },
   { "query_display": "蝙蝠侠在其他人眼中是怎样的存在", "real_query": "蝙蝠侠在其他人眼中是怎样的存在" }
 ]
