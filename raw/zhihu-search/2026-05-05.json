@@ -1,7 +1,6 @@
 [
   { "query_display": "张雪机车再夺冠军", "real_query": "张雪机车再夺冠军" },
   { "query_display": "央视世界杯版权费被曝谈崩", "real_query": "央视世界杯版权费被曝谈崩" },
-  { "query_display": "国乒女团 3-1 战胜波兰", "real_query": "国乒女团 3-1 战胜波兰" },
   { "query_display": "豆包付费版本曝光", "real_query": "豆包付费版本曝光" },
   { "query_display": "国乒男队 2:3 不敌瑞典队", "real_query": "国乒男队 2:3 不敌瑞典队" },
   { "query_display": "东航 A350 撞击廊桥并反复开反推", "real_query": "东航 A350 撞击廊桥并反复开反推" },
@@ -11,5 +10,7 @@
   { "query_display": "世界杯转播权再现中国式僵局", "real_query": "世界杯转播权再现中国式僵局" },
   { "query_display": "女子徒手给月子里宝宝打耳洞", "real_query": "女子徒手给月子里宝宝打耳洞" },
   { "query_display": "国乒男团在技术上已无明显优势", "real_query": "国乒男团在技术上已无明显优势" },
+  { "query_display": "张雪机车德比斯退赛", "real_query": "张雪机车德比斯退赛" },
+  { "query_display": "国乒女团 3-1 战胜波兰", "real_query": "国乒女团 3-1 战胜波兰" },
   { "query_display": "辽宁丹东交通事故已致8人死亡", "real_query": "辽宁丹东交通事故已致8人死亡" }
 ]
