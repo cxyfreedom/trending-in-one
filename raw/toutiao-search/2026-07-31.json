@@ -1,6 +1,139 @@
 [
-  { "url": "https://so.toutiao.com/search?keyword=今晚24时油价将调整", "word": "今晚24时油价将调整" },
+  { "url": "https://so.toutiao.com/search?keyword=50℃高温来了", "word": "50℃高温来了" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=南充市委原书记古正举贪1.24亿获无期",
+    "word": "南充市委原书记古正举贪1.24亿获无期"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=我国电力系统迎来结构性转变", "word": "我国电力系统迎来结构性转变" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=保时捷女销冠回应被AI合成不雅视频",
+    "word": "保时捷女销冠回应被AI合成不雅视频"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=美媒：日本正建造全世界最大驱逐舰",
+    "word": "美媒：日本正建造全世界最大驱逐舰"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=054B护卫舰首次亮相黄岩岛", "word": "054B护卫舰首次亮相黄岩岛" },
+  { "url": "https://so.toutiao.com/search?keyword=取消午休4点下班你会同意吗", "word": "取消午休4点下班你会同意吗" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=我国基本养老保险覆盖范围继续扩大",
+    "word": "我国基本养老保险覆盖范围继续扩大"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=陆军某旅演练教官发实弹", "word": "陆军某旅演练教官发实弹" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=男子拉音箱喊话帮宠物狗要回配种费",
+    "word": "男子拉音箱喊话帮宠物狗要回配种费"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=不是高温天就不会中暑？假的", "word": "不是高温天就不会中暑？假的" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=女子多次遭家暴后杀夫逃亡20年",
+    "word": "女子多次遭家暴后杀夫逃亡20年"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=大V：韩国危机远比股市要严重", "word": "大V：韩国危机远比股市要严重" },
+  { "url": "https://so.toutiao.com/search?keyword=婚外胚胎风波持续发酵", "word": "婚外胚胎风波持续发酵" },
+  { "url": "https://so.toutiao.com/search?keyword=“牛舔”式高温桑拿天何时退场", "word": "“牛舔”式高温桑拿天何时退场" },
   { "url": "https://so.toutiao.com/search?keyword=机器狼扛单兵火箭筒冲上滩头", "word": "机器狼扛单兵火箭筒冲上滩头" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=清华求真书院预科班部分学生被清退",
+    "word": "清华求真书院预科班部分学生被清退"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=“AI先知”450亿帝国为何一夜崩塌",
+    "word": "“AI先知”450亿帝国为何一夜崩塌"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=母女火灾中坠楼事发5天当地仍无回应",
+    "word": "母女火灾中坠楼事发5天当地仍无回应"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=全国高温闷热持续%20多地将破历史极值",
+    "word": "全国高温闷热持续 多地将破历史极值"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=2034杯赛事精彩瞬间", "word": "2034杯赛事精彩瞬间" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=男子砸伤摊主后西瓜全买就能免责吗",
+    "word": "男子砸伤摊主后西瓜全买就能免责吗"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=今晚24时油价上调", "word": "今晚24时油价上调" },
+  { "url": "https://so.toutiao.com/search?keyword=石华杰不再担任山东省委常委", "word": "石华杰不再担任山东省委常委" },
+  { "url": "https://so.toutiao.com/search?keyword=张柏芝现身李昊红馆演唱会", "word": "张柏芝现身李昊红馆演唱会" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=2027年或成有记录以来最热一年",
+    "word": "2027年或成有记录以来最热一年"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=如何看待解放军在黄岩岛动用新装备",
+    "word": "如何看待解放军在黄岩岛动用新装备"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=清华求真书院预科班清退风波背后",
+    "word": "清华求真书院预科班清退风波背后"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=贵州贵定再通报“伴漂擦边服务”",
+    "word": "贵州贵定再通报“伴漂擦边服务”"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=三星称供给紧张到2028年为何市场不信",
+    "word": "三星称供给紧张到2028年为何市场不信"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=网友两个夏天捡知了壳狂赚130万",
+    "word": "网友两个夏天捡知了壳狂赚130万"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=辽宁多名青年戴面具飙车炸街被抓",
+    "word": "辽宁多名青年戴面具飙车炸街被抓"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=用暑假工工资雇佣了211家教", "word": "用暑假工工资雇佣了211家教" },
+  { "url": "https://so.toutiao.com/search?keyword=7月31日连板股分析", "word": "7月31日连板股分析" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=中央气象台继续发布暴雨黄色预警",
+    "word": "中央气象台继续发布暴雨黄色预警"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=西安暴雨地道桥被淹男子被困车顶",
+    "word": "西安暴雨地道桥被淹男子被困车顶"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=哪吒汽车方运舟张勇新增2.7亿执行",
+    "word": "哪吒汽车方运舟张勇新增2.7亿执行"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=中国向伊朗提供400枚导弹？外交部回应",
+    "word": "中国向伊朗提供400枚导弹？外交部回应"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=孙女躲着想吓爷爷%20爷爷超级配合",
+    "word": "孙女躲着想吓爷爷 爷爷超级配合"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=昆明边检查获一名外籍偷渡男子",
+    "word": "昆明边检查获一名外籍偷渡男子"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=政治局会议表述变化释放何信号",
+    "word": "政治局会议表述变化释放何信号"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=A股的风格轮动是如何体现的", "word": "A股的风格轮动是如何体现的" },
+  { "url": "https://so.toutiao.com/search?keyword=河南多家商超被央视点名", "word": "河南多家商超被央视点名" },
+  { "url": "https://so.toutiao.com/search?keyword=多地中小银行调降存款利率", "word": "多地中小银行调降存款利率" },
+  { "url": "https://so.toutiao.com/search?keyword=罗文任河北省委书记", "word": "罗文任河北省委书记" },
+  { "url": "https://so.toutiao.com/search?keyword=日本“特高课”死灰复燃", "word": "日本“特高课”死灰复燃" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=22岁女子南太行独自游玩失联超4天",
+    "word": "22岁女子南太行独自游玩失联超4天"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=媒体：文旅NPC可出圈但别跑偏", "word": "媒体：文旅NPC可出圈但别跑偏" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=国防部回应台军演习将加入网络断网",
+    "word": "国防部回应台军演习将加入网络断网"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=男子抱着船桨打瞌睡一头栽水里",
+    "word": "男子抱着船桨打瞌睡一头栽水里"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=今晚24时油价将调整", "word": "今晚24时油价将调整" },
   {
     "url": "https://so.toutiao.com/search?keyword=一组数据读懂我国能源转型新趋势",
     "word": "一组数据读懂我国能源转型新趋势"
@@ -14,21 +147,8 @@
     "word": "数千移民游泳偷渡 西班牙边境崩溃"
   },
   { "url": "https://so.toutiao.com/search?keyword=长鑫科技市值首次突破4万亿", "word": "长鑫科技市值首次突破4万亿" },
-  {
-    "url": "https://so.toutiao.com/search?keyword=网友两个夏天捡知了壳狂赚130万",
-    "word": "网友两个夏天捡知了壳狂赚130万"
-  },
-  { "url": "https://so.toutiao.com/search?keyword=日本“特高课”死灰复燃", "word": "日本“特高课”死灰复燃" },
   { "url": "https://so.toutiao.com/search?keyword=中国电力的历史性时刻到来", "word": "中国电力的历史性时刻到来" },
   { "url": "https://so.toutiao.com/search?keyword=韩股涨熔断了", "word": "韩股涨熔断了" },
-  { "url": "https://so.toutiao.com/search?keyword=不是高温天就不会中暑？假的", "word": "不是高温天就不会中暑？假的" },
-  { "url": "https://so.toutiao.com/search?keyword=罗文任河北省委书记", "word": "罗文任河北省委书记" },
-  {
-    "url": "https://so.toutiao.com/search?keyword=孙女躲着想吓爷爷%20爷爷超级配合",
-    "word": "孙女躲着想吓爷爷 爷爷超级配合"
-  },
-  { "url": "https://so.toutiao.com/search?keyword=张柏芝现身李昊红馆演唱会", "word": "张柏芝现身李昊红馆演唱会" },
-  { "url": "https://so.toutiao.com/search?keyword=2034杯赛事精彩瞬间", "word": "2034杯赛事精彩瞬间" },
   {
     "url": "https://so.toutiao.com/search?keyword=袁志平团队全新火把节舞蹈上线",
     "word": "袁志平团队全新火把节舞蹈上线"
@@ -62,10 +182,6 @@
     "word": "美国封杀中国机器人到底在怕什么"
   },
   { "url": "https://so.toutiao.com/search?keyword=12条中日航线7月取消全部航班", "word": "12条中日航线7月取消全部航班" },
-  {
-    "url": "https://so.toutiao.com/search?keyword=中国向伊朗提供400枚导弹？外交部回应",
-    "word": "中国向伊朗提供400枚导弹？外交部回应"
-  },
   { "url": "https://so.toutiao.com/search?keyword=糖水市场为何不“甜”了", "word": "糖水市场为何不“甜”了" },
   { "url": "https://so.toutiao.com/search?keyword=美国财长为日本干预汇市站台", "word": "美国财长为日本干预汇市站台" },
   { "url": "https://so.toutiao.com/search?keyword=朱婷拒绝更高报价续约意大利", "word": "朱婷拒绝更高报价续约意大利" },
